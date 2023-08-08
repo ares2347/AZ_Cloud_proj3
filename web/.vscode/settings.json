@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c70d2262-d75e-4981-8225-8f81f9da237e/resourceGroups/AZ-Cloud/providers/Microsoft.Web/sites/azproj3",
+    "appService.deploySubpath": "."
+}
